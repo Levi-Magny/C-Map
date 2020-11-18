@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <head>
   <body>
     <h1>A C++ HashMap</h1>
     <h2>Implementação de um Map utilizando Hashing e lista encadeada</h2>
